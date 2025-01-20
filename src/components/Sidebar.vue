@@ -32,7 +32,7 @@
 
         .site-title {
             color: #fff;
-            font-size: 35px;
+            font-size: 34px;
             font-weight: 500;
             line-height: 1.1em;
             margin: 15px 0 0 0;
